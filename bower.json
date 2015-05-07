@@ -1,0 +1,20 @@
+{
+  "name": "atest_bower",
+  "version": "0.0.1",
+  "authors": [
+    "gx"
+  ],
+  "description": "atest",
+  "main": ["atest.js","atest.min.js"],
+  "keywords": [
+    "test"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
